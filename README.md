@@ -1,2 +1,6 @@
 # Countries-API
-To see hosted site, please visit https://countries-api-kode.vercel.app/
+To see hosted site, please visit:
+
+https://realmarloxx.github.io/Countries-API/
+or
+https://countries-api-kode.vercel.app/
